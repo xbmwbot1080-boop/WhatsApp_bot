@@ -40,5 +40,68 @@
 ---
 
 ## 🚀 Pairing Dashboard
+## 🌊 GET SESSION ID
 
+<p align="center">
+  <a href="TUMAR_PAIR_SITE_LINK">
+    <img src="https://img.shields.io/badge/PAIR_CODE_GENRATER-4A00E0?style=for-the-badge&logo=openaigym&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📡 DEPLOYMENT SITES
+
+Deploy your **Dora_x_MD Bot** with one click on your favorite hosting platforms.
+
+### 🔥 TRY DORA_x_MD MINI
+
+<p align="center">
+  <a href="TUMAR_MINI_BOT_LINK">
+    <img src="https://img.shields.io/badge/START_DORA_x_MD-FF0000?style=for-the-badge&logo=rocket&logoColor=white">
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="TUMAR_HEROKU_DEPLOY_LINK">
+        <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="TUMAR_REPLIT_LINK">
+        <img src="https://img.shields.io/badge/REPLIT-F26207?style=for-the-badge&logo=replit&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="TUMAR_KOYEB_LINK">
+        <img src="https://img.shields.io/badge/KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=FF004D">
+      </a>
+    </td>
+    <td align="center">
+      <a href="TUMAR_RAILWAY_LINK">
+        <img src="https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="TUMAR_RENDER_LINK">
+        <img src="https://img.shields.io/badge/RENDER-0091FF?style=for-the-badge&logo=render&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="TUMAR_NETLIFY_LINK">
+        <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Deploy Free on VPS
 > Securely link your device using the official Dora_x_MD pairing portals below.
