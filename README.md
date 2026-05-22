@@ -51,7 +51,56 @@
 ---
 
 ## 📡 DEPLOYMENT SITES
+> Star this repository to support the project. Fork the repository to your own GitHub account Copy your GitHub > username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
 
+> ⚠️ **Note:** After deployment, use the `.restart` command to improve the bot's performance.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/VPS_DEPLOY-181717?style=for-the-badge&logo=databricks&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/FREE_UNLIMITED-4A00E0?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/GITHUB_WORKFLOW-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODES-4A00E0?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/FOR_PANEL-4A00E0?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+✨ Keep your bot updated regularly to enjoy the latest features and patches.
+
+---
+
+## 🔗 DORA_x_MD FEATURES
 Deploy your **Dora_x_MD Bot** with one click on your favorite hosting platforms.
 
 ### 🔥 TRY DORA_x_MD MINI
