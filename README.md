@@ -44,13 +44,9 @@
 
 <p align="center">
   <a href="https://replit.com/@DGXeon/Xeon-PairCode">
-    <img src="https://img.shields.io/badge/PAIR_CODE_GENRATER-4A00E0?style=for-the-badge&logo=openaigym&logoColor=white">
+    <img src="https://img.shields.io/badge/PAIR_CODE_GENERATER-4A00E0?style=for-the-badge&logo=openaigym&logoColor=white">
   </a>
-</p>### 🔥 TRY DORA_x_MD MINI
-
-<table align="center">
-...Heroku, Replit er table sesh porjonto...
-</table>
+</p>
 
 ---
 
@@ -72,30 +68,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/GITHUB_WORKFLOW-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/CODES-4A00E0?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/FOR_PANEL-4A00E0?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -105,39 +77,6 @@
 ---
 
 ## 🔗 DORA_x_MD FEATURES
-## 🔗 DORA_x_MD FEATURES
----
-
-## 🔴 OFFICIAL SUPPORT CHANNEL
-
-📢 Get updates, fixes, and sneak peeks directly from the official channel.
-
-<p align="center">
-  <a href="TUMAR_WHATSAPP_CHANNEL_LINK">
-    <img src="https://img.shields.io/badge/JOIN_CHANNEL_NOW-4A00E0?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
-
----
-
-## 📊 PROJECT STATS DORA_x_MD
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xbmwbot1080-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="Dora_x_MD Stats" />
-</p>
-
----
-
-## Credits ⚒️
-
-**Creator:**  
-xbmwbot1080-boop (Official Creator)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with_❤️_by-Dora_x_MD-FF0000?style=for-the-badge">
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/FEATURES-INACCESSIBLE-808080?style=for-the-badge">
 </p>
@@ -192,66 +131,32 @@ xbmwbot1080-boop (Official Creator)
 ---
 
 ## 🔴 OFFICIAL SUPPORT CHANNEL
-https://whatsapp.com/channel/0029VbCLVUd2ZjCwovbMN91p
-📢 Get updates, fixes, and sneak peeks
+
+📢 Get updates, fixes, and sneak peeks directly from the official channel.
 
 <p align="center">
-  <a href="TUMAR_WHATSAPP_CHANNEL_LINK">
-    <img src="https://img.shields.io/badge/JOIN_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="TUMAR_TELEGRAM_LINK">
-    <img src="https://img.shields.io/badge/JOIN_TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <a href="https://whatsapp.com/channel/0029VbCLVUd2ZjCwovbMN91p">
+    <img src="https://img.shields.io/badge/JOIN_CHANNEL_NOW-4A00E0?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
-
-### 🔥 TRY DORA_x_MD MINI
-
-<p align="center">
-  <a href="<a href="https://github.com/xbmwbot1080-boop">">
-    <img src="https://img.shields.io/badge/START_DORA_x_MD-FF0000?style=for-the-badge&logo=rocket&logoColor=white">
-  </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="TUMAR_HEROKU_DEPLOY_LINK">
-        <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
-      </a>
-    </td>
-    <td align="center">
-      <a href="TUMAR_REPLIT_LINK">
-        <img src="https://img.shields.io/badge/REPLIT-F26207?style=for-the-badge&logo=replit&logoColor=white">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="TUMAR_KOYEB_LINK">
-        <img src="https://img.shields.io/badge/KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=FF004D">
-      </a>
-    </td>
-    <td align="center">
-      <a href="TUMAR_RAILWAY_LINK">
-        <img src="https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="TUMAR_RENDER_LINK">
-        <img src="https://img.shields.io/badge/RENDER-0091FF?style=for-the-badge&logo=render&logoColor=white">
-      </a>
-    </td>
-    <td align="center">
-      <a href="TUMAR_NETLIFY_LINK">
-        <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 🚀 Deploy Free on VPS
-> Securely link your device using the official Dora_x_MD pairing portals below.
+## 📊 PROJECT STATS DORA_x_MD
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xbmwbot1080-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="Dora_x_MD Stats" />
+</p>
+
+---
+
+## Credits ⚒️
+
+**Creator:**  
+xbmwbot1080-boop (Official Creator)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with_❤️_by-Dora_x_MD-FF0000?style=for-the-badge">
+</p>
