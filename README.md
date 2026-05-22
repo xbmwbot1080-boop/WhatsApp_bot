@@ -101,7 +101,73 @@
 ---
 
 ## 🔗 DORA_x_MD FEATURES
-Deploy your **Dora_x_MD Bot** with one click on your favorite hosting platforms.
+## 🔗 DORA_x_MD FEATURES
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FEATURES-INACCESSIBLE-808080?style=for-the-badge">
+</p>
+
+<table align="center">
+  <tr>
+    <th>⚒️ Feature</th>
+    <th>Status 📘</th>
+  </tr>
+  <tr>
+    <td>🤖 Ultimate Work</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>🔄 Anti-Delete</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>🎵 24/7 Runtime</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>📥 Downloader</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>🧠 AI Chat</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>👮 Group Setting</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>🚫 Auto Sticker</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>🎮 Games</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>🌐 Web Pairing</td>
+    <td>Active ✅</td>
+  </tr>
+  <tr>
+    <td>🎨 Sticker Maker</td>
+    <td>Active ✅</td>
+  </tr>
+</table>
+
+---
+
+## 🔴 OFFICIAL SUPPORT CHANNEL
+
+📢 Get updates, fixes, and sneak peeks
+
+<p align="center">
+  <a href="TUMAR_WHATSAPP_CHANNEL_LINK">
+    <img src="https://img.shields.io/badge/JOIN_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="TUMAR_TELEGRAM_LINK">
+    <img src="https://img.shields.io/badge/JOIN_TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 ### 🔥 TRY DORA_x_MD MINI
 
