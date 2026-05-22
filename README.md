@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Dora_x_MD" width="100%">
+  <img src="./Banner.png" alt="Dora_x_MD" width="100%">
 </p>
 
 <h3 align="center">Dora_x_MD The Next Generation WhatsApp Multi-Device Bot</h3>
