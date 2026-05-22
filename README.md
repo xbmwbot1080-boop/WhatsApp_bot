@@ -46,7 +46,11 @@
   <a href="TUMAR_PAIR_SITE_LINK">
     <img src="https://img.shields.io/badge/PAIR_CODE_GENRATER-4A00E0?style=for-the-badge&logo=openaigym&logoColor=white">
   </a>
-</p>
+</p>### 🔥 TRY DORA_x_MD MINI
+
+<table align="center">
+...Heroku, Replit er table sesh porjonto...
+</table>
 
 ---
 
