@@ -207,7 +207,7 @@ https://whatsapp.com/channel/0029VbCLVUd2ZjCwovbMN91p
 ### 🔥 TRY DORA_x_MD MINI
 
 <p align="center">
-  <a href="TUMAR_MINI_BOT_LINK">
+  <a href="<a href="https://github.com/xbmwbot1080-boop">">
     <img src="https://img.shields.io/badge/START_DORA_x_MD-FF0000?style=for-the-badge&logo=rocket&logoColor=white">
   </a>
 </p>
