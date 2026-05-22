@@ -43,7 +43,7 @@
 ## 🌊 GET SESSION ID
 
 <p align="center">
-  <a href="TUMAR_PAIR_SITE_LINK">
+  <a href="https://replit.com/@DGXeon/Xeon-PairCode">
     <img src="https://img.shields.io/badge/PAIR_CODE_GENRATER-4A00E0?style=for-the-badge&logo=openaigym&logoColor=white">
   </a>
 </p>### 🔥 TRY DORA_x_MD MINI
