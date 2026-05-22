@@ -161,7 +161,7 @@
 ---
 
 ## 🔴 OFFICIAL SUPPORT CHANNEL
-
+https://whatsapp.com/channel/0029VbCLVUd2ZjCwovbMN91p
 📢 Get updates, fixes, and sneak peeks
 
 <p align="center">
