@@ -106,7 +106,38 @@
 
 ## 🔗 DORA_x_MD FEATURES
 ## 🔗 DORA_x_MD FEATURES
+---
 
+## 🔴 OFFICIAL SUPPORT CHANNEL
+
+📢 Get updates, fixes, and sneak peeks directly from the official channel.
+
+<p align="center">
+  <a href="TUMAR_WHATSAPP_CHANNEL_LINK">
+    <img src="https://img.shields.io/badge/JOIN_CHANNEL_NOW-4A00E0?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📊 PROJECT STATS DORA_x_MD
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xbmwbot1080-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="Dora_x_MD Stats" />
+</p>
+
+---
+
+## Credits ⚒️
+
+**Creator:**  
+xbmwbot1080-boop (Official Creator)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with_❤️_by-Dora_x_MD-FF0000?style=for-the-badge">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/FEATURES-INACCESSIBLE-808080?style=for-the-badge">
 </p>
